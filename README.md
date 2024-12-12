@@ -5,7 +5,7 @@
 
 I am a passionate BCA student at Maharaja Surajmal Institute, focused on Data Structures and Algorithms (DSA) in Java. I am also deeply involved in various tech communities and organizations, which help me grow both personally and professionally.
 
-- 💼 **Member of Geek Room Development Department**: Actively contributing to projects and initiatives for engineering students.
+- 💼 **Member of Geek Room Development Department**: Actively contributing to projects.
 - 🔍 **Member of GDSC DSA Department**: Engaged in solving complex DSA problems and contributing to learning resources and projects.
 
 ### 🚀 Skills & Achievements
