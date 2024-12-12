@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Bhandari</h1>
-<h3 align="center">A passionate frontend developer from India, currently pursuing BCA Maharaja Surajmal Institute(1st year)</h3>
+<h3 align="center">A passionate frontend developer, currently pursuing BCA from Maharaja Surajmal Institute(1st year)</h3>
 
 - 🔭 I've made this e-commerce website using HTML, CSS and Javascript [Weave-the-web](https://weave-the-web.netlify.app)
 
